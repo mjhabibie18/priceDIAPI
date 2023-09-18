@@ -1,0 +1,31 @@
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\bin\Debug\TestDI.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\bin\Debug\TestDI.exe
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\bin\Debug\TestDI.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\bin\Debug\Sap.Data.Hana.v4.5.dll
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\bin\Debug\Sap.Data.Hana.v4.5.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\bin\Debug\Sap.Data.Hana.v4.5.xml
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\obj\Debug\TestDI.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\obj\Debug\Interop.SAPbobsCOM.dll
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\obj\Debug\TestDI.csproj.ResolveComReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\obj\Debug\TestDI.Form1.resources
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\obj\Debug\TestDI.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\obj\Debug\TestDI.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\obj\Debug\TestDI.exe
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\obj\Debug\TestDI.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\TestDI\TestDI\obj\Debug\TestDI.bpmaster.resources
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\bin\Debug\TestDI.exe.config
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\obj\Debug\TestDI.csproj.ResolveComReference.cache
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\obj\Debug\TestDI.exe
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\obj\Debug\TestDI.pdb
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\bin\Debug\TestDI.exe
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\bin\Debug\TestDI.pdb
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\bin\Debug\Sap.Data.Hana.v4.5.pdb
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\obj\Debug\TestDI.csprojResolveAssemblyReference.cache
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\obj\Debug\TestDI.Form1.resources
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\obj\Debug\TestDI.Properties.Resources.resources
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\obj\Debug\TestDI.csproj.GenerateResource.Cache
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\obj\Debug\TestDI.bpmaster.resources
+C:\Users\ryan.is\Downloads\TestDI\TestDI\TestDI\obj\Debug\TestDI.pricelist.resources
